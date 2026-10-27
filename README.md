@@ -1,6 +1,6 @@
 # Routed NVFP4 MoE
 
-Early kernels for the Open Kernel Challenge problem [`muse_moe_w4a16`](https://openkernelchallenge.dev/problems/muse_moe_w4a16). Team **Aravind-11**.
+Kernels for the Open Kernel Challenge problem [`muse_moe_w4a16`](https://openkernelchallenge.dev/problems/muse_moe_w4a16). Team **Aravind-11**.
 
 ## Board result
 
